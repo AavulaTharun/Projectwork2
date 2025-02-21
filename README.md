@@ -53,10 +53,15 @@ a histopathological tissue sample appears in the picture as medical professional
 
 ## Articles published / References
 [1] Bulten, W., et al. (2020). Automated deep-learning system for Gleason grading of prostate cancer using biopsies: a diagnostic study. The Lancet Oncology, 21(2), 233-241. doi: 10.1016/S1470-2045(19)30739-9
+
 [2] Ishioka, J., et al. (2019). Computer-aided diagnosis of prostate cancer on magnetic resonance imaging using a convolutional neural network algorithm. BJU International, 124(3), 411-417. doi: 10.1111/bju.14759
+
 [3]  Gao, Z., et al. (2020). Deep learning in prostate cancer diagnosis: a narrative review. Translational Andrology and Urology, 9(3), 924-934. doi: 10.21037/tau.2020.03.30
+
 [4] Tolkach, Y., et al. (2020). Deep learning-based detection of prostate cancer in multiparametric MRI. European Urology, 78(1), 99-101. doi: 10.1016/j.eururo.2020.03.049
+\
 [5] Ehteshami Bejnordi, B., et al. (2017). Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA, 318(22), 2199-2210. doi: 10.1001/jama.2017.14585
+
 [6] Wang, D., et al. (2019). Deep learning for identifying metastatic breast cancer. arXiv preprint arXiv:1606.05718. doi: 10.48550/arXiv.1606.05718
 
 
