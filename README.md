@@ -4,6 +4,7 @@ Prostate gland Cancer detection and grade classifying Using Gleason score-based 
 ## About
 Medical decisions for prostate cancer diagnosis heavily rely on exact cancer detection as well as grading precision among worldwide male patient populations. The Gleason Score assessment provides the established diagnostic method for evaluating prostate cancer through evaluation of histopathological tissue specimens. Currently the assessment process shows two main weaknesses because it depends on subjective judgment while also being unable to prevent differences between grader observations. A machine learning-based framework serves as the basis of this research to automatically discover prostate cancer while performing Gleason score(2-10) classifications. The dataset which contains histopathological images together with clinical biomarkers is prepared through feature extraction stages that use texture and morphological analysis methods. Different supervised learning techniques such as Support Vector Machines (SVM), Random Forest (RF), and deep learning approaches with Convolutional Neural Networks (CNNs) serve to correctly identify prostate cancer grades. The experimental data shows that CNN-based methods accomplish the most accurate grade classification results with an achievement of 94.5% and precise results showing 93.8% as well as the recall results of 94.2% and F1-score of 94.0%. Deep learning approaches produce more precise diagnosis through better reliability than traditional methods do. The implementation of machine learning algorithms in prostate cancer diagnosis enables pathologists to handle complex decisions thus allowing them to intervene early which produces better patient results.
 
+
 ## Features
 Automated Prostate Cancer Detection – Uses deep learning (CNNs, ResNet, U-Net) to classify histopathology images based on the Gleason Score.
 
@@ -59,7 +60,7 @@ a histopathological tissue sample appears in the picture as medical professional
 [3]  Gao, Z., et al. (2020). Deep learning in prostate cancer diagnosis: a narrative review. Translational Andrology and Urology, 9(3), 924-934. doi: 10.21037/tau.2020.03.30
 
 [4] Tolkach, Y., et al. (2020). Deep learning-based detection of prostate cancer in multiparametric MRI. European Urology, 78(1), 99-101. doi: 10.1016/j.eururo.2020.03.049
-\
+
 [5] Ehteshami Bejnordi, B., et al. (2017). Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA, 318(22), 2199-2210. doi: 10.1001/jama.2017.14585
 
 [6] Wang, D., et al. (2019). Deep learning for identifying metastatic breast cancer. arXiv preprint arXiv:1606.05718. doi: 10.48550/arXiv.1606.05718
